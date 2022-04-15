@@ -1,0 +1,13 @@
+Source venv:
+source /home/erick/Documents/python-projects/django-sandbox/django-alura/curso_1/venv/bin/activate
+
+Create Django project
+django-admin startproject alurareceita .
+
+Start django server
+python manage.py runserver
+
+python manage.py startapp app_name
+you need to register your app at "Installed Apps"
+
+moving projects around folders doesnt seem to be a good idea yet

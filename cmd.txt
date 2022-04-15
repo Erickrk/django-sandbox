@@ -1,0 +1,8 @@
+Source venv:
+source /home/erick/Documents/python-projects/django-alura/venv/bin/activate
+
+Start django server
+python manage.py runserver
+
+python manage.py startapp app_name
+you need to register your app at "Installed Apps"
