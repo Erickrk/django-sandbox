@@ -11,3 +11,5 @@ python manage.py startapp app_name
 you need to register your app at "Installed Apps"
 
 moving projects around folders doesnt seem to be a good idea yet
+
+register the app 
